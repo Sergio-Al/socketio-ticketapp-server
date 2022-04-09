@@ -14,7 +14,7 @@ class TicketList {
   }
 
   // the last 3 for the screen and the next 10 in the list
-  get lastThirtenn() {
+  get lastThirten() {
     return this.assigned.slice(0, 13);
   }
 
